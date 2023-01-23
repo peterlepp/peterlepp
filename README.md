@@ -2,7 +2,7 @@
 
 - :computer: Creative Developer
 - :pencil2: UX & Product Designer
-- :family: Rolle Parent
+- :family: Role: Parentrole
 
 ## Kontakt
 
