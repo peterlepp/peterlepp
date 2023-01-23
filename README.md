@@ -1,6 +1,4 @@
-# Peter Lepp
-
-## I am Peter Lepp
+# I am Peter Lepp
 
 - :computer: Frontendentwickler
 - :pencil2: Productdesigner
