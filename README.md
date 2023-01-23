@@ -2,8 +2,8 @@
 
 ## I am Peter Lepp
 
-- :computer: Frontendentwickler
-- :pencil2: Productdesigner
+- :computer: Creative Developer
+- :pencil2: UX & Product Designer
 - :family: Rolle Parent
 
 ## Kontakt
