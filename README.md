@@ -1,3 +1,11 @@
-# Peter Lepp Webdesigner
+# Peter Lepp
 
-mein Blog
+## I am Peter Lepp
+
+- :computer: Frontendentwickler
+- :pencil2: Productdesigner
+- :family: Rolle Parent
+
+## Kontakt
+
+- :envelope: peter@peterlepp.de
