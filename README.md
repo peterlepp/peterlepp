@@ -1,4 +1,5 @@
-# I am Peter Lepp
+# Hi, 
+## I am Peter Lepp
 
 - :computer: Creative Developer
 - :pencil2: UX & Product Designer
